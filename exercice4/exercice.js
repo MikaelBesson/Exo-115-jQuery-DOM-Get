@@ -1,0 +1,4 @@
+
+
+
+alert($("a").attr("href"));
